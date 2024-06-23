@@ -1,0 +1,14 @@
+title:pastmidnight14 PVE
+description:Description
+
+// Bold Endings - Bold Endings - Behemoth (pve)
+//notes: Stasis titan - great for stasis shard collection builds. tags:pve
+dimwishlist:item=496728945&perks=124408337,3324494224
+
+
+// Sightline Survey - pastmidnight14 PVE (pve)
+//notes: PVE description tags:pve
+dimwishlist:item=2350330520&perks=839105230,3230963543,3828510309,2173046394
+dimwishlist:item=2350330520&perks=839105230,106909392,3828510309,2173046394
+
+
