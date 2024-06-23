@@ -1,7 +1,7 @@
 title:pastmidnight14 PVE
-description:Description
+description:pastmidnight14's personal wishlist. Started in S24 (Final Shape).
 
-// Bold Endings - Bold Endings - Behemoth (pve)
+// Bold Endings - Behemoth (pve)
 //notes: Stasis titan - great for stasis shard collection builds. tags:pve
 dimwishlist:item=496728945&perks=124408337,3324494224
 
